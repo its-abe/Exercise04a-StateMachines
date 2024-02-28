@@ -1,7 +1,12 @@
-# Exercise04a-StateMachines
+# Project04-Platformer
+
+# Project Name
+2/28/24
+
+2d Platformer
 
 ## Implementation
-Which features you included.
+Animation for character
 
 ## References
 
@@ -10,6 +15,7 @@ https://www.youtube.com/playlist?list=PLFt_AvWsXl0f0hqURlhyIoAabKPgRsqjz
 https://github.com/SebLague/2DPlatformer-Tutorial
 
 ## Future Development
+TBD
 
 ## Created by
-Nathan Mishler
+Abraham Stone
